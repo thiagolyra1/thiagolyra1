@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | Backend Enthusiast | Open Source Contributor
 
-Sou apaixonado por tecnologia e desenvolvimento de software, com foco especial no backend. Tenho experiência com **Java/Spring Boot**, **Python/Django**, **TypeScript/Angular**, e bancos de dados como **MySQL, PostgreSQL e MongoDB**. Sempre estou explorando novas tecnologias e aprimorando minhas habilidades para criar soluções eficientes e escaláveis.
+Formado em Sistemas para Internet pela UNIPÊ . Possui experiência com **Java/Spring**, **Python/Django**, **TypeScript/Angular**, **MySQL**, **MongoDB**, **PostgreSQL**, entre outras tecnologias. Atuou como assistente administrativo no Sebo Cultural, como estagiário de Web Design no TRE-PB, e atualmente está na Fábrica de Software da UNIPÊ. Possui inglês avançado, aliado a determinação e paixão pela área de desenvolvimento.
 
 ---
 
