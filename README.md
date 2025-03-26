@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Thiago Lyra!
 
-### 🚀 Full Stack Developer | Backend Enthusiast | Open Source Contributor
+### 🚀 Full Stack Developer | Backend Enthusiast
 
 Formado em Sistemas para Internet pela UNIPÊ . Possui experiência com **Java/Spring**, **Python/Django**, **TypeScript/Angular**, **MySQL**, **MongoDB**, **PostgreSQL**, entre outras tecnologias. Atuou como assistente administrativo no Sebo Cultural, como estagiário de Web Design no TRE-PB, e atualmente está na Fábrica de Software da UNIPÊ. Possui inglês avançado, aliado a determinação e paixão pela área de desenvolvimento.
 
