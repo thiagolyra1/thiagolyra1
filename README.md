@@ -24,8 +24,7 @@ Projeto para a Fábrica de Software da UNIPÊ 2025.1.
 ---
 
 ## 📊 Estatísticas do GitHub
-![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagolyra1&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolyra1&layout=compact&theme=radical)
+![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagolyra1&show_icons=true&theme=radical)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolyra1&layout=compact&theme=radical)
 
 ---
 
