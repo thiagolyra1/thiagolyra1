@@ -16,7 +16,7 @@ Formado em Sistemas para Internet pela UNIPÊ . Possui experiência com **Java/S
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [[Desafio para a Fábrica de Software](https://github.com/thiagolyra1/projeto1](https://github.com/thiagolyra1/wsBackend-Fabrica25.1))
+### 🔹 [[Desafio para a Fábrica de Software]](https://github.com/thiagolyra1/projeto1](https://github.com/thiagolyra1/wsBackend-Fabrica25.1))
 Projeto para a Fábrica de Software da UNIPÊ 2025.1.
 
 🔗 Veja mais em meus repositórios: [github.com/thiagolyra1](https://github.com/thiagolyra1?tab=repositories)
