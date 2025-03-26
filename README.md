@@ -10,7 +10,7 @@ Formado em Sistemas para Internet pela UNIPÊ . Possui experiência com **Java/S
 🔹 **Backend:** Java (Spring Boot), Python (Django)  
 🔹 **Frontend:** TypeScript, Angular, React  
 🔹 **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-🔹 **Ferramentas & Outros:** Docker, Git/GitHub, CI/CD, Prisma, Redux  
+🔹 **Ferramentas & Outros:** Docker 
 
 ---
 
