@@ -7,7 +7,7 @@ Formado em Sistemas para Internet pela UNIPÊ . Possui experiência com **Java/S
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-🔹 **Backend:** Java (Spring Boot), Python (Django, FastAPI)  
+🔹 **Backend:** Java (Spring Boot), Python (Django)  
 🔹 **Frontend:** TypeScript, Angular, React  
 🔹 **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
 🔹 **Ferramentas & Outros:** Docker, Git/GitHub, CI/CD, Prisma, Redux  
@@ -16,7 +16,7 @@ Formado em Sistemas para Internet pela UNIPÊ . Possui experiência com **Java/S
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [[Projeto 1 - Nome do Projeto](https://github.com/thiagolyra1/projeto1](https://github.com/thiagolyra1/wsBackend-Fabrica25.1))
+### 🔹 [[Desafio para a Fábrica de Software](https://github.com/thiagolyra1/projeto1](https://github.com/thiagolyra1/wsBackend-Fabrica25.1))
 Projeto para a Fábrica de Software da UNIPÊ 2025.1.
 
 🔗 Veja mais em meus repositórios: [github.com/thiagolyra1](https://github.com/thiagolyra1?tab=repositories)
